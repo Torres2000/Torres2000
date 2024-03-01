@@ -4,9 +4,9 @@
 ## Sobre mi
 -👨‍💻 **Desarrollador Frontend:** Mi experencia incluye el desarrollo de interfaces adaptables a diferentes dispositivos, utilizando HTML, CSS y JavaScript.
 
--👨‍🎓 **Apendiz de por vida:** Actualmente estudiando React para mejorar mis habilidades como Desarrollador Frontend.
+-👨‍🎓 **Aprendiz de por vida:** Actualmente estudiando React para mejorar mis habilidades como Desarrollador Frontend.
 
--💼 **Busando Oportunidades:** Actualmente Buscando oportunidades donde pueda demostrar mis habilidades y conocimientos, en un entorno donde pueda crecer profesionalmente.
+-💼 **Buscando Oportunidades:** Actualmente Buscando oportunidades donde pueda demostrar mis habilidades y conocimientos, en un entorno donde pueda crecer profesionalmente.
 
 ## Pilas
 
